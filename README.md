@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+It's just a personal / privat reposititory page right now.
+Maybe some public stuff will be available in the future.
+
+Cheers'
+Andre
+
 <!--
 **And-rix/and-rix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
