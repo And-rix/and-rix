@@ -1,22 +1,14 @@
 ### Hi there 👋
 
-It's just a personal / privat reposititory page right now.
-Maybe some public stuff will be available in the future.
+It's just a personal / private reposititory page right now. ~ <i>Maybe some public stuff will be available in the future 🔮</i>
 
-Cheers'
-Andre
 
-<!--
-**And-rix/and-rix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in the following topics:
 
-Here are some ideas to get you started:
+~ <code>Powershell</code><br>
+~ <code>Batch</code><br>
+~ <code>HTML/CSS</code><br>
+~ <code>PHP</code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Cheers!
