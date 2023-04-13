@@ -13,4 +13,4 @@ Interested in the following topics:
 
 Cheers!
 
-![Snake animation](https://github.com/{{and-rix}}/{{and-rix}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/and-rix/and-rix/blob/output/github-contribution-grid-snake.svg)
