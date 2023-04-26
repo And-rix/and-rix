@@ -1,6 +1,6 @@
 uses: Platane/snk@v2
 with: and-rix
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: and-rix
 
     outputs: |
       dist/github-snake.svg
